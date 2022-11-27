@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Gabe616/OCUndoRedo/main/script.lua"), "=OCUndoRedo")()
