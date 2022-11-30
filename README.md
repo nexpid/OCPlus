@@ -1,3 +1,4 @@
+# ⚠ MOBILE SUPPORT SOON!! ⚠
 # OCUndoRedo
 a silly goofy script for roblox
 
@@ -9,3 +10,12 @@ Execute this to run OCUR:
 ```lua
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Gabe616/OCUndoRedo/main/loader.lua"))()
 ```
+  
+Tested on:
+- ✅ KRNL
+- ✅ Fluxus
+- ❔ Script-Ware
+- ❔ Synapse
+- ❔ Oxygen U
+- ❌ Fluxus Android
+- ❌ JJSploit (ew)
