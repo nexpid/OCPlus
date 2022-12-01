@@ -1,4 +1,3 @@
-# ⚠ MOBILE SUPPORT SOON!! ⚠
 # OCUndoRedo
 a silly goofy script for roblox
 
@@ -10,11 +9,13 @@ Join the discord server [discord.gg/whirlpoolstudio](https://discord.gg/whirlpoo
 ^ currently disabled. check back later!!
 
 ## Executors
-Tested on:
-- ✅ KRNL
-- ✅ Fluxus
-- ❔ Script-Ware
-- ❔ Synapse
-- ❔ Oxygen U
-- ❌ Fluxus Android
-- ❌ JJSploit (ew)
+| Status            | Executor        | Reason              |
+| ----------------- | --------------- | ------------------- |
+| ✅ Working        | KRNL            |
+| ❔ Unknown        | Coco Z          | Couldn't download it |
+| ❔ Unknown        | Fluxus          | Patched atm          |
+| ⌚ Not Yet Tested | Kiwi X          |
+| ⌚ Not Yet Tested | Fluxus Android  |
+| ⌚ Not Yet Tested | Oygen U         |
+| ⌚ Not Yet Tested | Script-Ware     |
+| ⌚ Not Yet Tested | Synapse         |
