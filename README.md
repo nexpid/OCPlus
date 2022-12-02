@@ -12,10 +12,10 @@ Join the discord server [discord.gg/whirlpoolstudio](https://discord.gg/whirlpoo
 | Status            | Executor        | Reason              |
 | ----------------- | --------------- | ------------------- |
 | ✅ Working        | KRNL            |
-| ❔ Unknown        | Coco Z          | Couldn't download it |
 | ❔ Unknown        | Fluxus          | Patched atm          |
-| ⌚ Not Yet Tested | Kiwi X          |
+| ❔ Unknown        | Kiwi X          | Patched atm          |
+| ❔ Unknown        | Oygen U         | Patched atm          |
+| ❔ Unknown        | Coco Z          | Patched atm          |
 | ⌚ Not Yet Tested | Fluxus Android  |
-| ⌚ Not Yet Tested | Oygen U         |
 | ⌚ Not Yet Tested | Script-Ware     |
 | ⌚ Not Yet Tested | Synapse         |
