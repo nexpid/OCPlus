@@ -15,12 +15,12 @@ Join the discord server [discord.gg/whirlpoolstudio](https://discord.gg/whirlpoo
 Last tested at **6/12/2022** (roblox version **version-f45136ee566843d2**)
 | Status            | Executor              | Reason/Issue                   |
 | ----------------- | --------------------- | ------------------------------ |
+| ⌚ Not Yet Tested | Script-Ware           |                                |
+| ⌚ Not Yet Tested | Synapse               |                                |
 | ❔ Unknown        | Coco Z                | it keeps fucking crashing      |
 | ✅ Working        | KRNL                  |                                |
 | ✅ Working        | Fluxus                |                                |
 | ✅ Working        | Fluxus Android        | UI bug with mobile-only button |
 | ✅ Working        | Kiwi X (EzExploits)   |                                |
-| ⌚ Not Yet Tested | Script-Ware           |                                |
-| ⌚ Not Yet Tested | Synapse               |                                |
 | ❌ Not Working    | Kiwi X (WRD)          | Throws "Fatal Error."          |
 | ❌ Not Working    | Oygen U               | Throws "Fatal Error."          |
