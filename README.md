@@ -26,7 +26,7 @@ The current version is **v0.2-ALPHA**, but the script isn't available to everyon
   - redo keybind
   - die button
   - enhancements (less blurry text)
-  - ✨ Discord RPC ✨ (check out the GitHub repository for more info)
+  - ✨ Discord RPC ✨ ([info here](https://github.com/Gabe616/OCUndoRedo/blob/main/DiscordRPC.md))
 ## Stuff That Can Be Undo/Redo'd
 - moving,resizing,rotating parts
 - changing advanced tools properties
