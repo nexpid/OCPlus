@@ -3,7 +3,6 @@ a silly goofy script for roblox
 
 ## Discord RPC
 - download the executable from the Releases tab
-  - currently doesn't work oops
 - open it and let it run in the background
 - reload the script and enable "Discord RPC" in settings
 
