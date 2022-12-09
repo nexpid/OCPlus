@@ -1,16 +1,44 @@
 # OCUndoRedo
-a silly goofy script for roblox
+This is a script I coded which allows you to undo/redo your actions (moving objects, deleting parts, etc)
 
-## Discord RPC
-- download the executable from the Releases tab
-- open it and let it run in the background
-- reload the script and enable "Discord RPC" in settings
-
-## Info
-Join the discord server [discord.gg/whirlpoolstudio](https://discord.gg/whirlpoolstudio) and head to the post [#[OCUR-script] UndoRedo Feature](https://discord.com/channels/460407394971942922/1046501272540426300/1046501272540426300) for more info!
-
+## Script
+The current version is **v0.2-ALPHA**, but the script isn't available to everyone yet.
+## FaQ
+- Can I get the script?
+  - Nope, not yet. I will be releasing an obfuscated version soon™ though.
+- Will I get banned if I use this?
+  - Another no, Mario is okay with exploits like these which only enhance gameplay.
 ## Honorable Mentions
-- [@WackyAristo#9031](https://discord.com/users/874685773209808936) - testing for Synapse
+- @WackyAristo#9031 - tester for Synapse
+## Controls
+- H = toggle history
+- Undo
+  - Ctrl + Z
+  - Ctrl + X
+- Redo
+  - Ctrl + Y
+  - Ctrl + Shift + Z
+## Cool Features
+- new settings (woah)
+  - revert to old lighting
+  - UI dark mode
+  - undo keybind
+  - redo keybind
+  - die button
+  - enhancements (less blurry text)
+  - ✨ Discord RPC ✨ (check out the GitHub repository for more info)
+## Stuff That Can Be Undo/Redo'd
+- moving,resizing,rotating parts
+- changing advanced tools properties
+- changing an object's properties
+- changing an object's effects
+- changing the global properties
+- creating a new part
+- changing an object's behaviour (moving part, spin part, etc)
+- cloning an object
+- deleting an object
+
+Join the Discord server [OCUR Updates](https://discord.gg/Mpw6b7vQfJ) for updates about this script!
 
 ## Executors
 Last tested at **6/12/2022** (roblox version **version-f45136ee566843d2**)
