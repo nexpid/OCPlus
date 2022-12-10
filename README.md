@@ -15,7 +15,10 @@ This is a script which started out as a simple Undo/Redo mod but became much mor
   - ✨ Discord RPC ✨ ([info here](https://github.com/Gabe616/OCPlus/blob/main/DiscordRPC.md))
 - undo/redoing
 ## Script
-The current version is **v0.2-ALPHA**, but the script isn't available to everyone yet.
+Current version is **0.3-ALPHA**.
+```lua
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Gabe616/OCPlus/main/loader.lua"))()
+```
 ## FaQ
 - Can I get the script?
   - Nope, not yet. I will be releasing an obfuscated version soon™ though.

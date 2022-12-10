@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Gabe616/OCUndoRedo/main/script.lua"), "=OCUndoRedo")()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Gabe616/OCUndoRedo/main/script.lua"), "=OCUndoRedo.0.3-ALPHA")()
