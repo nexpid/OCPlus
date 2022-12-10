@@ -1,6 +1,9 @@
 # OCPlus
 This is a script which started out as a simple Undo/Redo mod but became much more!
 
+## Honorable Mentions
+- @SupremeFire#4424 - helped set up the Discord server (and he's my friend)
+- @WackyAristo#9031 - tester for Synapse
 ## Features
 - new settings (woah)
   - revert to old lighting
@@ -18,8 +21,6 @@ The current version is **v0.2-ALPHA**, but the script isn't available to everyon
   - Nope, not yet. I will be releasing an obfuscated version soon™ though.
 - Will I get banned if I use this?
   - Another no, Mario is okay with exploits like these which only enhance gameplay.
-## Honorable Mentions
-- @WackyAristo#9031 - tester for Synapse
 ## Controls
 - H = toggle history
 - Undo
