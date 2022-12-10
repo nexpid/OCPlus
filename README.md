@@ -1,6 +1,16 @@
-# OCUndoRedo
-This is a script I coded which allows you to undo/redo your actions (moving objects, deleting parts, etc)
+# OCPlus
+This is a script which started out as a simple Undo/Redo mod but became much more!
 
+## Features
+- new settings (woah)
+  - revert to old lighting
+  - UI dark mode
+  - undo keybind
+  - redo keybind
+  - die button
+  - enhancements (less blurry text)
+  - ✨ Discord RPC ✨ ([info here](https://github.com/Gabe616/OCPlus/blob/main/DiscordRPC.md))
+- undo/redoing
 ## Script
 The current version is **v0.2-ALPHA**, but the script isn't available to everyone yet.
 ## FaQ
@@ -13,20 +23,11 @@ The current version is **v0.2-ALPHA**, but the script isn't available to everyon
 ## Controls
 - H = toggle history
 - Undo
-  - Ctrl + Z
+  - Ctrl + Z/__keybind__
   - Ctrl + X
 - Redo
-  - Ctrl + Y
-  - Ctrl + Shift + Z
-## Cool Features
-- new settings (woah)
-  - revert to old lighting
-  - UI dark mode
-  - undo keybind
-  - redo keybind
-  - die button
-  - enhancements (less blurry text)
-  - ✨ Discord RPC ✨ ([info here](https://github.com/Gabe616/OCUndoRedo/blob/main/DiscordRPC.md))
+  - Ctrl + Y/__keybind__
+  - Ctrl + Shift + Z/__keybind__
 ## Stuff That Can Be Undo/Redo'd
 - moving,resizing,rotating parts
 - changing advanced tools properties
@@ -38,7 +39,7 @@ The current version is **v0.2-ALPHA**, but the script isn't available to everyon
 - cloning an object
 - deleting an object
 
-Join the Discord server [OCUR Updates](https://discord.gg/Mpw6b7vQfJ) for updates about this script!
+Join the Discord server [OCPlus Updates](https://discord.gg/Mpw6b7vQfJ) for updates about this script!
 
 ## Executors
 Last tested at **6/12/2022** (roblox version **version-f45136ee566843d2**)

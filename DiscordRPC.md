@@ -2,7 +2,7 @@
 Shows a fancy "Playing **Obby Creator**" activity to all your Discord friends.
 
 # Setup
-- Head over to the [Releases](https://github.com/Gabe616/OCUndoRedo/releases) tab on the right
+- Head over to the [Releases](https://github.com/Gabe616/OCPlus/releases) tab on the right
 - Select the latest version
 - Download the MSI file
 - Run it
