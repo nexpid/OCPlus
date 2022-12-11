@@ -1,26 +1,26 @@
 {
-    "music frame back is just skip inverted": null,
-    "music frame": {
-        "rbxassetid://7022708266": ["back10", "11797982293"],
-        "rbxassetid://11303858400": ["mute", "11797985292"],
-        "rbxassetid://7022700306": ["skip", "11797988562"],
-        "rbxassetid://7022700452": ["skip10", "11797993591"],
-        "rbxassetid://11303858241": ["unmute", "11797996921"]
-    },
-    "main buttons": {
-        "rbxassetid://2953938042": ["back", "11797981288"]
-    },
-    "load obby": {
-        "rbxassetid://8151338536": ["edit", "11797980145"]
-    },
-    "selection frame": {
-        "rbxassetid://2988928883": ["clone", "11798017637"],
-        "rbxassetid://4173614686": ["teleport", "11798025756"],
-        "rbxassetid://6932024455": ["build_normal", "11798014858"],
-        "rbxassetid://6932074331": ["build_noclip", "11798012618"],
-        "rbxassetid://5789987819": ["build_camera", "11798009877"],
-        "rbxassetid://6282383303": ["multi", "11798021919"],
-        "rbxassetid://3166914572": ["settings", "11798024444"],
-        "rbxassetid://3258455886": ["delete", "11798020440"]
-    }
+  "music frame back is just skip inverted": null,
+  "main buttons": {
+    "rbxassetid://2953938042": ["back", "rbxassetid://11797981269"]
+  },
+  "music frame": {
+    "rbxassetid://7022700306": ["skip", "rbxassetid://11797988505"],
+    "rbxassetid://11303858241": ["unmute", "rbxassetid://11797996853"],
+    "rbxassetid://7022700452": ["skip10", "rbxassetid://11797993551"],
+    "rbxassetid://11303858400": ["mute", "rbxassetid://11797985246"],
+    "rbxassetid://7022708266": ["back10", "rbxassetid://11797982262"]
+  },
+  "selection frame": {
+    "rbxassetid://6282383303": ["multi", "rbxassetid://11798021863"],
+    "rbxassetid://6932024455": ["build_normal", "rbxassetid://11798014788"],
+    "rbxassetid://4173614686": ["teleport", "rbxassetid://11798025693"],
+    "rbxassetid://3258455886": ["delete", "rbxassetid://11798020386"],
+    "rbxassetid://6932074331": ["build_noclip", "rbxassetid://11798012563"],
+    "rbxassetid://3166914572": ["settings", "rbxassetid://11798024413"],
+    "rbxassetid://2988928883": ["clone", "rbxassetid://11798017570"],
+    "rbxassetid://5789987819": ["build_camera", "rbxassetid://11798009819"]
+  },
+  "load obby": {
+    "rbxassetid://8151338536": ["edit", "rbxassetid://11797980106"]
+  }
 }
