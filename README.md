@@ -51,6 +51,7 @@ And heres all of the keybinds for undo & redo:
 # FAQ
 ---
 **Q: Can I get the script?**
+
 Go right ahead! This one-liner should do the trick:
 
 ```lua
@@ -58,9 +59,11 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/Gabe616/OCPlus/main/l
 ```
 
 **Q: Will I get banned if I use OCPlus?**
+
 No. mario118118 is fine with exploits being used in his games for gameplay enhancement. This isn't the same outside of Obby Creator though, so don't try porting this over other games without expecting punishment.
 
 **Q: What executors can I use?**
+
 Take a look below!
 
 | Status            | Executor              | Reason/Issue                   |
