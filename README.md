@@ -51,10 +51,10 @@ Last tested at **6/12/2022** (roblox version **version-f45136ee566843d2**)
 | ----------------- | --------------------- | ------------------------------ |
 | ⌚ Not Yet Tested | Script-Ware           |                                |
 | ⌚ Not Yet Tested | Synapse               |                                |
-| ❔ Unknown        | Coco Z                | it keeps fucking crashing      |
+| ❔ Unknown        | Coco Z                | Keeps crashing                 |
 | ✅ Working        | KRNL                  |                                |
 | ✅ Working        | Fluxus                |                                |
-| ✅ Working        | Fluxus Android        | UI bug with mobile-only button |
+| ✅ Working        | Fluxus Android        |                                |
 | ✅ Working        | Kiwi X (EzExploits)   |                                |
 | ❌ Not Working    | Kiwi X (WRD)          | Throws "Fatal Error."          |
 | ❌ Not Working    | Oygen U               | Throws "Fatal Error."          |
