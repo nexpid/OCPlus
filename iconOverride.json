@@ -5,9 +5,9 @@
   },
   "music frame": {
     "rbxassetid://7022700306": ["skip", "rbxassetid://11797988505"],
-    "rbxassetid://11303858241": ["unmute", "rbxassetid://11797996853"],
+    "rbxassetid://11303858241": ["mute", "rbxassetid://11797985246"],
     "rbxassetid://7022700452": ["skip10", "rbxassetid://11797993551"],
-    "rbxassetid://11303858400": ["mute", "rbxassetid://11797985246"],
+    "rbxassetid://11303858400": ["unmute", "rbxassetid://11797996853"],
     "rbxassetid://7022708266": ["back10", "rbxassetid://11797982262"]
   },
   "selection frame": {
