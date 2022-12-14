@@ -69,12 +69,13 @@ Take a look below!
 | Status            | Executor              | Reason/Issue                   |
 | ----------------- | --------------------- | ------------------------------ |
 | Not Yet Tested | Script-Ware           |                                |
-| Not Yet Tested | Synapse               |                                |
+| Not Yet Tested | Hydrogen              |                                |
 | Unknown        | Coco Z                | Keeps crashing                 |
 | Working        | KRNL                  |                                |
 | Working        | Fluxus                |                                |
 | Working        | Fluxus Android        |                                |
 | Working        | Kiwi X (EzExploits)   |                                |
+| Not Working    | ~~Synapse~~           | Script throws an error         |
 | Not Working    | ~~Kiwi X (WRD)~~          | Throws "Fatal Error."          |
 | Not Working    | ~~Oygen U~~               | Throws "Fatal Error."          |
 
