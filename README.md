@@ -1,4 +1,7 @@
-![OCPLUS](https://raw.githubusercontent.com/Gabe616/OCPlus/main/OCPLUS%20(1).png "https://raw.githubusercontent.com/Gabe616/OCPlus/main/OCPLUS%20(1).png")
+<center>
+
+![OCPlus Logo](https://raw.githubusercontent.com/Gabe616/OCPlus/main/OCPlus.png "OCPlus.png")
+</center>
 
 ---
 Obby Creator Plus is an enhancement exploit for the game Obby Creator, packed with features such as undo and redo, dark mode, revert Future lighting, crisper text, Discord rich presence and much more.
