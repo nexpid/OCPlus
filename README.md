@@ -1,6 +1,5 @@
 <center>
-
-![OCPlus Logo](https://raw.githubusercontent.com/Gabe616/OCPlus/main/OCPlus.png "OCPlus.png")
+    <img src="https://raw.githubusercontent.com/Gabe616/OCPlus/main/OCPlus.png" alt="OCPlus Logo">
 </center>
 
 ---
