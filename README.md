@@ -51,7 +51,7 @@ And heres all of the keybinds for undo & redo:
 | Ctrl + Shift + Z | Redo                                   |
 
 # FAQ
----
+
 **Q: Can I get the script?**
 
 Go right ahead! This one-liner should do the trick:
@@ -64,9 +64,10 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/Gabe616/OCPlus/main/l
 
 No. mario118118 is fine with exploits being used in his games for gameplay enhancement. This isn't the same outside of Obby Creator though, so don't try porting this over other games without expecting punishment.
 
-**Q: What executors can I use?**
+**Q: What's error 409?**
+Error 409 is the conflict error, which isn't a network issue but a script issue. This should be fixed in the 1.0.0 version.
 
-Take a look below!
+# Executor Compatibility
 
 | Status            | Executor              | Reason/Issue                   |
 | ----------------- | --------------------- | ------------------------------ |
