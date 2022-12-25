@@ -1,1 +1,0 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Gabe616/OCPlus/main/script.lua"), "=OCPlus.0.3-ALPHA")()
