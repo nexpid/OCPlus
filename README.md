@@ -41,7 +41,7 @@ No. mario118118 is fine with exploits being used in his games for gameplay enhan
 This should already be fixed in 0.3 Alpha, it revolved around an issue with loading the HistoryFrame.
 
 ## Honorable Mentions
----
+
 **SupremeFire#4424 or ImNotFireMan123**
 
 * Made this README
