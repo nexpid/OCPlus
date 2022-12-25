@@ -1,5 +1,5 @@
 <center>
-    <img src="https://raw.githubusercontent.com/Gabe616/OCPlus/main/OCPlus.png" alt="OCPlus Logo">
+    <img src="https://raw.githubusercontent.com/Gabe616/OCPlus/main/assets/OCPlus.png" alt="OCPlus Logo">
 </center>
 
 ---
