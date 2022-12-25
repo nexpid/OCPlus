@@ -1,73 +1,21 @@
-<center>
-    <img src="https://raw.githubusercontent.com/Gabe616/OCPlus/main/assets/OCPlus.png" alt="OCPlus Logo">
-</center>
+<img src="./assets/icon.png" alt="OC+ Logo" width="200" height="200" align="right"/>
 
----
-Obby Creator Plus is an enhancement exploit for the game Obby Creator, packed with features such as undo and redo, dark mode, revert Future lighting, crisper text, Discord rich presence and much more.
+# Obby Creator Plus
 
-Join the [Discord](https://discord.gg/Mpw6b7vQfJ) for updates about this script!
+OC+ is an enhancement exploit for the Roblox game, Obby Creator. It's packed with features like undo and redo, dark mode, improved interface, Discord rich prescence and more to come!
 
-Load OC+ using this code snippet:
-```lua
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Gabe616/OCPlus/main/loader.lua"))()
-```
+* Join our [Discord Server](https://discord.gg/Mpw6b7vQfJ) for occasional updates
+* [Feedback](https://dyno.gg/form/15b74110) is always appreciated
 
-# Features
---- 
-## Improved Settings 
-The settings panel is upgraded with several OC+ additions that can be toggled to enhance your experience building. 
-- Revert to old lighting 
-- UI dark mode 
-- Undo & redo keybinds 
-- Text Enhancements
+## Usage
 
-## UI Dark Mode 
-As a heavily requested feature, OC+ has moderate support for dark mode. It simply inverts and monochrome Obby Creator’s color scheme, this creates a much nicer interface to look at night. Simply toggle it in settings. 
-
-## Text Enhancements 
-These improve OC’s text making them crisper. These ranges from the interface to billboards, to signs and gates to text effects. 
-
-## Undo & Redo 
-OC+ features a simple UI for undo & redoing with a timeline to log changes and changable keybinds. What more can you ask?
-
-Heres all of the stuff you can undo and redo in glory:
-- moving, resizing, rotating parts
-- changing advanced tools properties
-- changing an object's properties
-- changing an object's effects
-- changing the global properties
-- creating a new part
-- changing an object's behaviour (moving part, spin part, etc)
-- cloning an object
-- deleting an object
-
-And heres all of the keybinds for undo & redo:
-| Keybind          | Purpose                                |
-|------------------|----------------------------------------|
-| H                | Toggles History                        |
-| Ctrl + Z         | Undo **(keybind can be changed)**      |
-| Ctrl + X         | Undo                                   |
-| Ctrl + Y         | Redo **(keybind can be changed)**      |
-| Ctrl + Shift + Z | Redo                                   |
-
-# FAQ
-
-**Q: Can I get the script?**
-
-Go right ahead! This one-liner should do the trick:
+The following one-liner should do the job:
 
 ```lua
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Gabe616/OCPlus/main/loader.lua"))()
 ```
 
-**Q: Will I get banned if I use OCPlus?**
-
-No. mario118118 is fine with exploits being used in his games for gameplay enhancement. This isn't the same outside of Obby Creator though, so don't try porting this over other games without expecting punishment.
-
-**Q: What's error 409?**
-Error 409 is the conflict error, which isn't a network issue but a script issue. This should be fixed in the 1.0.0 version.
-
-# Executor Compatibility
+OC+ is compatible with the following executors below:
 
 | Status            | Executor              | Reason/Issue                   |
 | ----------------- | --------------------- | ------------------------------ |
@@ -77,17 +25,28 @@ Error 409 is the conflict error, which isn't a network issue but a script issue.
 | Working           | Fluxus                |                                |
 | Working           | Fluxus Android        |                                |
 | Working           | Kiwi X (EzExploits)   |                                |
-| Working           | Script-Ware           |                                |
-| Working           | Synapse               |                                |
+| Working           | Script-Ware           | Only works in the unreleased version (1.0) |
+| Working           | Synapse               | Only works in the unreleased version (1.0) |
 | Not Working       | ~~Kiwi X (WRD)~~      | Throws "Fatal Error."          |
 | Not Working       | ~~Oygen U~~           | Throws "Fatal Error."          |
 
-**NOTE: Synapse & Script-Ware currently only works in the unreleased version, 1.0!**
+## FAQ
 
-# Honorable Mentions
+### Q: Will I get banned if I use OCPlus?
+
+No. mario118118 is fine with exploits being used in his games for gameplay enhancement. This isn't the same outside of Obby Creator though, so don't try porting this over other games without expecting punishment.
+
+### Q: Help! The script throws Error 409.
+
+This should already be fixed in 0.3 Alpha, it revolved around an issue with loading the HistoryFrame.
+
+## Honorable Mentions
 ---
 **SupremeFire#4424 or ImNotFireMan123**
-Made OC+ branding, discord server and this very read me.
+
+* Made this README
+* Designed OC+
 
 **WackyAristo#9031**
-Synaspe tester.
+
+* Synaspe Tester
