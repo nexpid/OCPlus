@@ -4,7 +4,6 @@ return {
     title = "Cool Example Addon",
     description = "A very cool addon which does absolutely nothing.",
     version = 1.0,
-    addonVersion = "1.0-beta",
     author = 304346361,
     settings = {
         {

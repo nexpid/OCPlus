@@ -9,7 +9,6 @@ Check out [example.lua](/example.lua) for an example of an addon.
     - [Addon.title](#addontitle--string)
     - [Addon.description](#addondescription--string)
     - [Addon.version](#addonversion--float)
-    - [Addon.addonVersion](#addonaddonversion--string)
     - [Addon.author](#addonauthor--int)
     - [Addon.settings](#addonsettings--dictionary)
         - [Setting](#setting--object)
@@ -47,8 +46,6 @@ The Addon's visible title
 The Addon's description
 ### `Addon.version :: float`
 The Addon's version
-### `Addon.addonVersion :: string`
-The Addon's structure version
 ### `Addon.author :: int`
 The Addon's author user ID
 ### `Addon.settings :: Setting[]`
@@ -76,21 +73,21 @@ Dictionary containing the Addon's runner functions
 ### `Runner :: object`
 The Runner object. All runner functions are surrounded by `pcall()` and errors logged with `Util.error`.
 ### `Runner.start :: function`
-The function that gets ran when the addon is enabled.
+The function that gets ran when the addon is enabled. This function is not required, but will throw a warning if not provided.  
 Passed arguments:
 - **[Util](#util--object)** — The Addon's Util object
-### `Runner.update :: function`
-The function that gets ran when a setting is changed.
+### `Runner.update? :: function`
+(optional) The function that gets ran when a setting is changed.  
 Passed arguments:
 - **[Util](#util--object)** — The Addon's Util object
 - **key** — The Setting's ID that was changed.
-### `Runner.input :: function`
-The function that gets ran when a key is pressed.
+### `Runner.input? :: function`
+(optional) The function that gets ran when a key is pressed.  
 Passed arguments:
 - **[Util](#util--object)** — The Addon's Util object
 - **input** — The InputObject
 ### `Runner.stop :: function`
-The function that gets ran when the addon is disabled or the script is reloaded.
+The function that gets ran when the addon is disabled or the script is reloaded. This function is not required, but will throw a warning if not provided.  
 Passed arguments:
 - **[Util](#util--object)** — The Addon's Util object  
 ​  
