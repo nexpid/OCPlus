@@ -84,6 +84,11 @@ The function that gets ran when a setting is changed.
 Passed arguments:
 - **[Util](#util--object)** — The Addon's Util object
 - **key** — The Setting's ID that was changed.
+### `Runner.input :: function`
+The function that gets ran when a key is pressed.
+Passed arguments:
+- **[Util](#util--object)** — The Addon's Util object
+- **input** — The InputObject
 ### `Runner.stop :: function`
 The function that gets ran when the addon is disabled or the script is reloaded.
 Passed arguments:
