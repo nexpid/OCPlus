@@ -78,16 +78,16 @@ The Runner object. All runner functions are surrounded by `pcall()` and errors l
 ### `Runner.start :: function`
 The function that gets ran when the addon is enabled.
 Passed arguments:
-- **[Util]()** — The Addon's Util object
+- **[Util](#util--object)** — The Addon's Util object
 ### `Runner.update :: function`
 The function that gets ran when a setting is changed.
 Passed arguments:
-- **[Util]()** — The Addon's Util object
+- **[Util](#util--object)** — The Addon's Util object
 - **key** — The Setting's ID that was changed.
 ### `Runner.stop :: function`
 The function that gets ran when the addon is disabled or the script is reloaded.
 Passed arguments:
-- **[Util]()** — The Addon's Util object  
+- **[Util](#util--object)** — The Addon's Util object  
 ​  
 ### `Util :: object`
 The Util object
