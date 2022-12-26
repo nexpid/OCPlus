@@ -3,7 +3,7 @@ User-generated addons for OCPlus! (Fire will rewrite this later to look better)
 Check out [example.lua](/example.lua) for an example of an addon.
 
 ## Reference
-- [How To Submit]()
+- [How To Submit](#how-to-submit)
 - [Addon Documentation](#Addon-documentation)
     - [Addon](#addon--object)
     - [Addon.title](#addontitle--string)
