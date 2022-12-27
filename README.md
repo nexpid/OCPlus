@@ -1,12 +1,13 @@
-<center>
-<img src="https://github.com/Gabe616/OCPlus/raw/main/assets/OCPlus.png" width="384" alt="OCPlus Logo">
+<h1 align="center"><img src="https://github.com/Gabe616/OCPlus/raw/main/assets/OCPlus.png" width="384" alt="OCPlus Logo"></h1>
 <br>
 <br>
+<p align="center">
 <img src="https://img.shields.io/github/v/release/Gabe616/OCPlus" alt="Version">
 <img src="https://img.shields.io/github/license/Gabe616/OCPlus" alt="License">
 <a href="https://discord.gg/Mpw6b7vQfJ"><img src="https://img.shields.io/discord/1050859544219234385?color=5865f2" alt="Discord"></a>
-<p>OC+ is an enhancement script for Obby Creator that implements new features to the game in the form of Addons.</p>
-</center>
+</p>
+<p align="center">OC+ is an enhancement script for Obby Creator that implements new features to the game in the form of Addons.</p>
+
 ## Usage
 
 ```lua
