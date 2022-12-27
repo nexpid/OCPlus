@@ -1,6 +1,7 @@
 local RS = game:GetService("RunService")
 
 return {
+    id = "coolexample",
     title = "Cool Example Addon",
     description = "A very cool addon which does absolutely nothing.",
     version = 1.0,
