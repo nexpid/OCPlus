@@ -9,6 +9,7 @@
 ## Usage
 
 ```lua
+-- Run this line of code to load OC+
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Gabe616/OCPlus/main/loader.lua"))()
 ```
 
@@ -47,7 +48,9 @@ Check the compatibility table, is your executor not supported? If your executor 
 
 ## Honorable Mentions
 > **ImNotFireMan123** or **SometimesFire**
+> 
 > Designer of OC+, writer of this README
 
 > **GABA8** or **Gabe616**
+> 
 > Developer of OC+
