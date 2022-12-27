@@ -1,5 +1,4 @@
 <h1 align="center"><img src="https://github.com/Gabe616/OCPlus/raw/main/assets/OCPlus.png" width="384" alt="OCPlus Logo"></h1>
-<br>
 <p align="center">
 <img src="https://img.shields.io/github/v/release/Gabe616/OCPlus" alt="Version">
 <img src="https://img.shields.io/github/license/Gabe616/OCPlus" alt="License">
