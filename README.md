@@ -1,21 +1,19 @@
-<img src="./assets/icon.png" alt="OC+ Logo" width="200" height="200" align="right"/>
-
-# Obby Creator Plus
-
-OC+ is an enhancement exploit for the Roblox game, Obby Creator. It's packed with features like undo and redo, dark mode, improved interface, Discord rich prescence and more to come!
-
-* Join our [Discord Server](https://discord.gg/Mpw6b7vQfJ) for occasional updates
-* [Feedback](https://dyno.gg/form/15b74110) is always appreciated
-
+<center>
+<img src="https://github.com/Gabe616/OCPlus/raw/main/assets/OCPlus.png" width="384" alt="OCPlus Logo">
+<br>
+<br>
+<img src="https://img.shields.io/github/v/release/Gabe616/OCPlus" alt="Version">
+<img src="https://img.shields.io/github/license/Gabe616/OCPlus" alt="License">
+<a href="https://discord.gg/Mpw6b7vQfJ"><img src="https://img.shields.io/discord/1050859544219234385?color=5865f2" alt="Discord"></a>
+<p>OC+ is an enhancement script for Obby Creator that implements new features to the game in the form of Addons.</p>
+</center>
 ## Usage
-
-The following one-liner should do the job:
 
 ```lua
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Gabe616/OCPlus/main/loader.lua"))()
 ```
 
-OC+ is compatible with the following executors below:
+## Compatibility
 
 | Status            | Executor              | Reason/Issue                   |
 | ----------------- | --------------------- | ------------------------------ |
@@ -25,28 +23,36 @@ OC+ is compatible with the following executors below:
 | Working           | Fluxus                |                                |
 | Working           | Fluxus Android        |                                |
 | Working           | Kiwi X (EzExploits)   |                                |
-| Working           | Script-Ware           | Only works in the unreleased version (1.0) |
-| Working           | Synapse               | Only works in the unreleased version (1.0) |
+| Working           | Script-Ware           | Unreleased |
+| Working           | Synapse               | Unreleased |
 | Not Working       | ~~Kiwi X (WRD)~~      | Throws "Fatal Error."          |
 | Not Working       | ~~Oygen U~~           | Throws "Fatal Error."          |
 
-## FAQ
+## Frequently Asked Questions
 
-### Q: Will I get banned if I use OCPlus?
+### Will I get banned if I use OC+?
 
-No. mario118118 is fine with exploits being used in his games for gameplay enhancement. This isn't the same outside of Obby Creator though, so don't try porting this over other games without expecting punishment.
+No! Mario118118 has allowed the usage of enhancement exploits in Obby Creator. Be weary you may get banned if you try to use enhancement exploits on other games like Blockate.
 
-### Q: Help! The script throws Error 409.
+### How can I create my own Addon?
 
-This should already be fixed in 0.3 Alpha, it revolved around an issue with loading the HistoryFrame.
+There's a [sweet API](https://github.com/Gabe616/OCPlus/tree/addons#readme) for making Addons just for you! Addons will be implemented in 1.0. As of now, there is no way to submit an Addon for OC+ yet.
+
+### The script doesn’t work!
+
+Check the compatibility table, is your executor not supported? If your executor isn't listed or the executor is marked as untested, help contribute by making an [issue](https://github.com/Gabe616/OCPlus/issues) and we'll add it to the readme.
+
+## Screenshots
+
+<center>
+<img src="https://github.com/Gabe616/OCPlus/raw/main/assets/settings.png" width="500" alt="The Settings menu in version 0.3">
+<br>
+<i>The Settings menu in version 0.3</i>
+</center>
 
 ## Honorable Mentions
+> **ImNotFireMan123** or **SometimesFire**
+> Designer of OC+, writer of this README
 
-**SupremeFire#4424 or ImNotFireMan123**
-
-* Made this README
-* Designed OC+
-
-**WackyAristo#9031**
-
-* Synaspe Tester
+> **GABA8** or **Gabe616**
+> Developer of OC+
