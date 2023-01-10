@@ -7,6 +7,7 @@ return {
     version = 1.0,
     author = 304346361,
     github = "https://raw.githubusercontent.com/Gabe616/OCPlus/main/addons/example.lua",
+    icon = "11176073563",
     settings = {
         {
             name = "Be Cool",
