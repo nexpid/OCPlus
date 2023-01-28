@@ -43,8 +43,19 @@ There's a [sweet API](https://github.com/Gabe616/OCPlus/tree/addons#readme) for 
 Check the compatibility table, is your executor not supported? If your executor isn't listed or the executor is marked as untested, help contribute by making an [issue](https://github.com/Gabe616/OCPlus/issues) and we'll add it to the readme.
 
 ## Screenshots
-<img src="https://github.com/Gabe616/OCPlus/raw/main/assets/settings_0.3.png" width="500" alt="The Settings menu in version 0.3">
+<img src="assets/settings_0.3.png" width="500" alt="The Settings menu in version 0.3">
+<br/>
 <i>The Settings menu in version 0.3</i>
+<br/>
+<img src="assets/settings_1.0.png" width="500" alt="The Settings menu in version 1.0">
+<br/>
+<i>The Settings menu in version 1.0</i>
+<br/>
+<img src="assets/addons_1.0.png" width="500" alt="The Addons menu in version 1.0">
+<br/>
+<i>The Addons menu in version 1.0</i>
+<br/>
+<br/>
 
 ## Honorable Mentions
 > **ImNotFireMan123** or **SometimesFire**
