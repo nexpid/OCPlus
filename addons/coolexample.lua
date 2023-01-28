@@ -46,7 +46,7 @@ return {
         end
         update = function(Util, key)
             if key then -- Called by addon manager
-                Util.log(("%s has been changed to %s!"):format(key, Util.data[key]))
+                Util.log(("%s has been changed to %s!"):format(key, tostring(Util.data[key])))
             end
 
             Util.removeEvent("coolness") -- Unregisters the coolness event
