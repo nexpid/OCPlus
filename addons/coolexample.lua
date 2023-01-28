@@ -43,7 +43,7 @@ return {
             if input.KeyCode.Name == Util.data.coolkb then
                 Util.log("Pressed the swag key!")
             end
-        end
+        end,
         update = function(Util, key)
             if key then -- Called by addon manager
                 Util.log(("%s has been changed to %s!"):format(key, tostring(Util.data[key])))
