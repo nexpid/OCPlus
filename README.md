@@ -7,7 +7,7 @@
 <p align="center">OC+ is an enhancement script for Obby Creator that implements new features to the game in the form of Addons.</p>
 
 ## Usage
-
+Loads the latest version of the script (v0.9):
 ```lua
 -- Run this line of code to load OC+
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Gabe616/OCPlus/main/loader.lua"))()
@@ -36,7 +36,7 @@ No! Mario118118 has allowed the usage of enhancement exploits in Obby Creator. B
 
 ### How can I create my own Addon?
 
-There's a [sweet API](https://github.com/Gabe616/OCPlus/tree/addons#readme) for making Addons just for you! Addons will be implemented in 1.0. As of now, there is no way to submit an Addon for OC+ yet.
+There's a [sweet API](https://github.com/Gabe616/OCPlus/tree/addons#readme) for making Addons just for you! Addons will be implemented in v0.9. As of now, there is no way to submit an Addon for OC+ yet.
 
 ### The script doesn’t work!
 
@@ -47,13 +47,13 @@ Check the compatibility table, is your executor not supported? If your executor 
 <br/>
 <i>The Settings menu in version 0.3</i>
 <br/>
-<img src="assets/settings_1.0.png" width="500" alt="The Settings menu in version 1.0">
+<img src="assets/settings_1.0.png" width="500" alt="The Settings menu in version 0.9">
 <br/>
-<i>The Settings menu in version 1.0</i>
+<i>The Settings menu in version 0.9</i>
 <br/>
-<img src="assets/addons_1.0.png" width="500" alt="The Addons menu in version 1.0">
+<img src="assets/addons_1.0.png" width="500" alt="The Addons menu in version 0.9">
 <br/>
-<i>The Addons menu in version 1.0</i>
+<i>The Addons menu in version 0.9</i>
 <br/>
 <br/>
 
