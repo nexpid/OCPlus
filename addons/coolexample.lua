@@ -6,7 +6,7 @@ return {
     description = "A very cool addon which does absolutely nothing.",
     version = 1.0,
     author = 304346361,
-    github = "https://raw.githubusercontent.com/Gabe616/OCPlus/main/addons/coolexample.lua",
+    github = "https://raw.githubusercontent.com/nexpid/OCPlus/main/addons/coolexample.lua",
     icon = "11176073563",
     settings = {
         {

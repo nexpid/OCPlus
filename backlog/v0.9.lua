@@ -3142,5 +3142,10 @@ elseif rn > ar then
 	out:Fire(("Newer version of OC+ detected!"):format(version), Color3.new(0.5, 1, 0.5), 10)
 elseif ar > rn then
 	out:Fire(("Older version of OC+ detected!"):format(version), Color3.new(1, 0.5, 0.5), 10)
+	if _G.hasAlertedOldVersion ~= rn then
+		out:Fire("Reexecute the script to actually run it.", Color3.new(1, 0.5, 0.5), 10)
+		_G.hasAlertedOldVersion = rn
+		if true then return end
+	end
 end
 -- 🤭
